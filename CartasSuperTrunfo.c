@@ -9,13 +9,29 @@ int main() {
   char estado1, estado2;
   char codigo1[4], codigo2[4];
   char nomecidade1[50], nomecidade2[50];
-  int papulacao1, populacao2;
+  int populacao1, populacao2;
   float area1, area2;
   float pib1, pib2;
   int pontosturisticos1, pontoturisticos2;
   // Área para entrada de dados
+  printf("Dados da carta 1\n");
+
+  printf("Digite o estado: ");
+  scanf("%c", &estado1);
+
+  printf("Digite o codigo: ");
+  scanf("%s", Codigo1\n);
+  
+  printf("Digite o nome da cidade: ");
+  scanf("%c", nomecidade1);
+  
+  printf("Digite a quantidade de população:");
+  scanf("%d", &populacao1);
+  
+  
 
   // Área para exibição dos dados da cidade
 
 return 0;
+
 } 
